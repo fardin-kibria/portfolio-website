@@ -41,6 +41,7 @@ hr{
     border-color: honeydew;
 }
 .btn-primary:hover{
+    color: rgb(21, 35, 48);
     background-color: rgb(106, 233, 255);
     border-color: rgb(59, 59, 59);
     border-width: 3px;
