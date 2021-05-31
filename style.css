@@ -1,0 +1,51 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    font-family: "Bebas Neue", cursive;
+    background: url(boatzeba.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 0px;
+}
+
+h1{
+    font-size: 8rem;
+    color: honeydew;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: lightcyan;
+}
+
+hr{
+    background-color: rgb(12, 2, 71);
+    border-radius: thick;
+}
+
+.buffer{
+    height: 34rem;
+}
+
+.nav{
+    font-size: 3rem;
+}
+
+.btn{
+    font-size: 3rem;
+    font-weight:  700;
+    border-radius: 100px;
+}
+.btn-primary{
+    background-color: rgba(119, 235, 219, 0.829);
+    border-color: honeydew;
+}
+.btn-primary:hover{
+    background-color: rgb(106, 233, 255);
+    border-color: rgb(59, 59, 59);
+    border-width: 3px;
+}
+
+.btn-xl{
+    padding: 1rem 5rem;
+}
