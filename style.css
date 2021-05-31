@@ -17,6 +17,9 @@ h1{
     text-transform: uppercase;
 }
 
+.animate__animated.animate__heartBeat{
+    animation-duration: 3s;
+}
 hr{
     background-color: rgb(34, 71, 36);
 }
