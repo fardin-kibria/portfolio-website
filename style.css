@@ -19,8 +19,7 @@ h1{
 }
 
 hr{
-    background-color: rgb(12, 2, 71);
-    border-radius: thick;
+    background-color: rgb(34, 71, 36);
 }
 
 .buffer{
@@ -31,6 +30,9 @@ hr{
     font-size: 3rem;
 }
 
+.nav-link:hover{
+    color: rgb(114, 250, 205);
+}
 .btn{
     font-size: 3rem;
     font-weight:  700;
